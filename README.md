@@ -1,7 +1,6 @@
 # About
-站点中的常用代码，正在进一步完善中 ...
+Common code, coming soon ...
 
 # Todo list
-- [x] 多音字读音列表；
-- [ ] 汉字字音查询；
-- [ ] 汉字读音查询；
+- [x] Polyphonic pronunciation list
+- [ ] Chinese character pronunciation
