@@ -1,0 +1,14 @@
+:root {
+  --font-sans: Inter, 'PingFang SC', ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  --footer-link-color: #16a085;
+}
+
+body {
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+::selection {
+  color: white;
+  background-color: var(--footer-link-color);
+}

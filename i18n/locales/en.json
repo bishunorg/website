@@ -1,0 +1,23 @@
+{
+  "site": {
+    "tagline": "Learn Hanzi Stroke Order",
+    "description": "Bishun helps learners of all backgrounds master Chinese character writing with correct stroke order animations, pronunciation, meanings, random writing practice, and character origin and history content."
+  },
+  "seo": {
+    "title": "Bishun | Learn Hanzi Stroke Order",
+    "description": "Bishun helps learners of all backgrounds master Chinese character writing with correct stroke order animations, pronunciation, meanings, random writing practice, and character origin and history content.",
+    "twitterDescription": "Learn correct Hanzi stroke order with animated writing, pronunciation, meanings, random practice, and character origin insights.",
+    "keywords": "chinese character stroke order, hanzi writing, chinese handwriting practice, learn chinese characters, stroke animation, character etymology, chinese character history"
+  },
+  "footer": {
+    "explore": "Explore",
+    "about": "About",
+    "blog": "Blog",
+    "legal": "Legal",
+    "terms": "Terms of service",
+    "privacy": "Privacy Policy",
+    "license": "License",
+    "copyright": "© 2026 Bishun with 🧡",
+    "allRightsReserved": "All rights reserved."
+  }
+}

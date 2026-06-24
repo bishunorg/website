@@ -1,0 +1,15 @@
+{
+  "$schema": "https://oxc.rs/schemas/oxlintrc.json",
+  "env": {
+    "browser": true,
+    "node": true,
+    "es2024": true
+  },
+  "ignorePatterns": [
+    ".nuxt/**",
+    ".output/**",
+    "node_modules/**",
+    "dist/**"
+  ],
+  "rules": {}
+}
