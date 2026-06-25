@@ -1,12 +1,17 @@
 <template>
   <header class="flex items-center justify-between">
     <h1 class="flex items-center gap-2 my-4">
-      <img
-        src="/img/logo.png"
-        alt="Bishun Logo"
-        class="w-6 h-6"
+      <NuxtLink
+        to="/"
+        class="flex items-center gap-2 text-lg font-semibold text-gray-900 hover:text-[#16a085] transition-colors duration-200"
       >
-      <span>Bishun</span>
+        <img
+          src="/img/logo.png"
+          alt="Bishun Logo"
+          class="w-6 h-6"
+        >
+        <span>Bishun</span>
+      </NuxtLink>
     </h1>
     <div class="flex items-center gap-2 text-sm">
       <button

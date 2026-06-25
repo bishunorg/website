@@ -1,15 +1,15 @@
 <template>
   <footer class="py-10">
-    <div class="flex gap-x-6 md:gap-x-24">
-      <div class="flex flex-col gap-4 w-1/3">
+    <div class="flex flex-col md:flex-row gap-6 md:gap-24">
+      <div class="flex flex-col gap-4 md:w-1/3">
         <img
           src="/img/logo.png"
           alt="Bishun Logo"
           class="w-10 h-10"
         >
-        <p class="text-sm">{{ $t('site.tagline') }}</p>
+        <p class="text-sm">{{ $t('site.description') }}</p>
       </div>
-      <div class="flex flex-1 gap-x-[10%] md:gap-x-[25%]">
+      <div class="flex flex-1 gap-x-16 md:gap-x-[25%]">
         <dl class="flex flex-col gap-y-4">
           <dt class="font-semibold text-lg">{{ $t('footer.explore') }}</dt>
           <dd class="text-sm"><FooterLink to="#">{{ $t('footer.about') }}</FooterLink></dd>

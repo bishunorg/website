@@ -9,6 +9,56 @@
     "twitterDescription": "Learn correct Hanzi stroke order with animated writing, pronunciation, meanings, random practice, and character origin insights.",
     "keywords": "chinese character stroke order, hanzi writing, chinese handwriting practice, learn chinese characters, stroke animation, character etymology, chinese character history"
   },
+  "landing": {
+    "hero": {
+      "cta": "Start Learning",
+      "ctaFree": "Free to use"
+    },
+    "features": {
+      "title": "Everything you need to master Hanzi",
+      "strokeOrder": {
+        "title": "Stroke Order Animations",
+        "description": "Watch each character come to life with step-by-step animated stroke order guidance."
+      },
+      "pronunciation": {
+        "title": "Pronunciation",
+        "description": "Learn accurate pinyin pronunciation for every character."
+      },
+      "meanings": {
+        "title": "Meanings & Definitions",
+        "description": "Understand the meaning of every character with clear, concise definitions."
+      },
+      "practice": {
+        "title": "Random Writing Practice",
+        "description": "Test your knowledge with randomized character writing exercises."
+      },
+      "etymology": {
+        "title": "Character Origins & History",
+        "description": "Explore the fascinating history and etymology behind each Chinese character."
+      },
+      "radicals": {
+        "title": "Radicals & Components",
+        "description": "Learn the building blocks of Chinese characters by recognizing common radicals and their meanings."
+      }
+    }
+  },
+  "learn": {
+    "title": "Learn a Character",
+    "subtitle": "Enter a Chinese character to see its stroke order animation",
+    "placeholder": "Enter a character",
+    "search": "Search",
+    "play": "Play",
+    "pause": "Pause",
+    "loop": "Loop",
+    "speed": "Playback Speed",
+    "speedSlow": "Slow",
+    "speedNormal": "Normal",
+    "speedFast": "Fast",
+    "speedVeryFast": "Very Fast",
+    "seoTitle": "Learn Hanzi | Bishun",
+    "seoDescription": "Learn Chinese character stroke order with animated writing on Bishun.",
+    "errorNotFound": "Character not found. Please try a different character."
+  },
   "footer": {
     "explore": "Explore",
     "about": "About",

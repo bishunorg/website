@@ -1,13 +1,63 @@
 {
   "site": {
     "tagline": "学习汉字笔顺",
-    "description": "笔顺帮助各种背景的学习者通过正确的笔顺动画、发音、含义、随机书写练习以及汉字起源和历史内容来掌握汉字书写。"
+    "description": "帮助各种背景的学习者通过正确的笔顺动画、发音、含义、随机书写练习以及汉字起源和历史内容来掌握汉字书写。"
   },
   "seo": {
     "title": "笔顺 | 学习汉字笔顺",
     "description": "笔顺帮助各种背景的学习者通过正确的笔顺动画、发音、含义、随机书写练习以及汉字起源和历史内容来掌握汉字书写。",
     "twitterDescription": "通过笔顺动画、发音、含义、随机书写练习和汉字起源解析，学习正确的汉字笔顺。",
     "keywords": "汉字笔顺, 汉字书写, 汉字练习, 学习汉字, 笔顺动画, 汉字起源, 汉字历史"
+  },
+  "landing": {
+    "hero": {
+      "cta": "开始学习",
+      "ctaFree": "免费使用"
+    },
+    "features": {
+      "title": "掌握汉字所需的一切",
+      "strokeOrder": {
+        "title": "笔顺动画",
+        "description": "通过逐步的笔顺动画，直观观察每个汉字的书写过程。"
+      },
+      "pronunciation": {
+        "title": "发音",
+        "description": "学习每个汉字的标准拼音发音。"
+      },
+      "meanings": {
+        "title": "字义与释义",
+        "description": "通过简洁清晰的释义，理解每个汉字的含义。"
+      },
+      "practice": {
+        "title": "随机书写练习",
+        "description": "通过随机汉字书写练习检验你的学习成果。"
+      },
+      "etymology": {
+        "title": "汉字起源与历史",
+        "description": "探索每个汉字背后迷人的历史与字源演变。"
+      },
+      "radicals": {
+        "title": "偏旁部首",
+        "description": "通过认识常见偏旁部首及其含义，掌握汉字的基本构成单元。"
+      }
+    }
+  },
+  "learn": {
+    "title": "学习汉字",
+    "subtitle": "输入一个汉字，查看其笔顺动画",
+    "placeholder": "输入汉字",
+    "search": "查询",
+    "play": "播放",
+    "pause": "暂停",
+    "loop": "循环",
+    "speed": "播放速度",
+    "speedSlow": "慢速",
+    "speedNormal": "正常",
+    "speedFast": "快速",
+    "speedVeryFast": "极速",
+    "seoTitle": "学习汉字 | 笔顺",
+    "seoDescription": "在笔顺网站通过动画学习汉字的书写笔顺。",
+    "errorNotFound": "未找到该字，请尝试其他汉字。"
   },
   "footer": {
     "explore": "探索",
