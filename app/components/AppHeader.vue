@@ -22,5 +22,5 @@
 </template>
 
 <script setup lang="ts">
-const { locale: currentLocale, locales, setLocale } = useI18n()
+const { locale: currentLocale, locales, setLocale } = useI18n();
 </script>
